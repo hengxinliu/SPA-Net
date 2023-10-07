@@ -1,0 +1,12 @@
+#train_data_dir: ./Data/MICCAI_BraTS_2018_Data_Training
+#train_data_dir: ./Data/MICCAI_BraTS_2019_Data_Training
+train_data_dir: /media/omnisky/34B22D6336AC1687/Data/MICCAI_BraTS_2019_Data_Training
+#valid_data_dir: ./Data/MICCAI_BraTS_2018_Data_Validation
+#valid_data_dir: ./Data/MICCAI_BraTS_2019_Data_Validation
+valid_data_dir: /media/omnisky/34B22D6336AC1687/Data/MICCAI_BraTS_2019_Data_Validation
+#valid_data_dir: /media/omnisky/34B22D6336AC1687/Data/MICCAI_BraTS_2019_Data_Training
+#valid_data_dir: /media/omnisky/34B22D6336AC1687/Data/MICCAI_BraTS_2018_Data_Validation
+test_data_dir: ./data2/liuxiaopeng/Data/BraTS2018/Test
+ckpt_dir: ./ckpts
+
+
