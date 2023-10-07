@@ -6,7 +6,7 @@ This repository is the work of "_A deep convolutional neural network for the aut
 
 <center>Architecture of  SPA-Net</center>
 <div  align="center">  
- <img src="https://github.com/hengxinliu/ADHDC-Net/blob/main/fig/SPA-Net.jpg"
+ <img src="https://github.com/hengxinliu/SPA-Net/blob/main/fig/SPA-Net.jpg"
      align=center/>
 </div>
 
